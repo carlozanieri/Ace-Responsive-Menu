@@ -150,7 +150,7 @@ ul {
     display: none;
     float: left;
     width: 100%;
-    background: #310202;
+    background: #333;
 }
 .menu-toggle h3 {
     float: left;
@@ -161,7 +161,7 @@ ul {
 }
 .menu-toggle .icon-bar {
     display: block !important;
-    width: 12px;
+    width: 18px;
     height: 2px;
     background-color: #F5F5F5 !important;
     -webkit-border-radius: 1px;
@@ -177,12 +177,12 @@ ul {
 }
 .menu-toggle #menu-btn {
     float: right;
-    background: #4d0101;
+    background: #202020;
     border: 1px solid #0C0C0C;
-    padding: 1px;
+    padding: 8px;
     border-radius: 5px;
     cursor: pointer;
-    margin: 1px;
+    margin: 10px;
 }
 .hide-menu {
     display: none;
